@@ -1,0 +1,26 @@
+{
+  "name": "pattern-observer",
+  "version": "0.9.0",
+  "description": "Design pattern Observer in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajvakhrushev/Observer.git"
+  },
+  "keywords": [
+    "design",
+    "patterns",
+    "observer",
+    "publish",
+    "subscribe"
+  ],
+  "author": "Andrey Vakhrushev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajvakhrushev/Observer/issues"
+  },
+  "homepage": "https://github.com/ajvakhrushev/Observer#readme"
+}
